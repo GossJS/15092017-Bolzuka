@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE tabliza PUBLIC "MashaSh" "https://kodaktor.ru/j/dtd_9bf0b">
+<tabliza>
+ <student imya="Ivanov">
+  <otmetka disciplina="Multimedia">3</otmetka>
+  <otmetka disciplina="WEB-design">3</otmetka>
+  <otmetka disciplina="Grafika">5</otmetka>
+ </student>
+ <student imya="Petrov">
+  <otmetka disciplina="Multimedia" >3</otmetka>
+  <otmetka disciplina="WEB-design" >4</otmetka>
+  <otmetka disciplina="Grafika" >5</otmetka>
+  <otmetka disciplina="Logika" >5</otmetka>
+ </student>
+ <student  imya="Sidorenko">
+  <otmetka disciplina="Multimedia" >3</otmetka>
+  <otmetka disciplina="WEB-design" >4</otmetka>
+  <otmetka disciplina="Grafika" >5</otmetka>
+  <otmetka disciplina="Logika" >4</otmetka>
+ </student>
+</tabliza>
