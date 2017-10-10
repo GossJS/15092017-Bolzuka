@@ -1,0 +1,58 @@
+{
+	"tabliza": [{
+			"student": {
+				"imya": "Ivanov",
+				"otmetka": {
+					"disciplina": {
+						"Multimedia": "3",
+						"Web-design": "3",
+						"Grafica": "5"
+					}
+				}
+			}
+		},
+
+		{
+			"student": {
+				"imya": "Petrova",
+				"otmetka": {
+					"disciplina":
+
+					{
+						"Multimedia": "3",
+						"Web-design": "4",
+						"Grafica": "5",
+						"Logika": "5"
+					}
+
+				}
+			}
+
+
+
+
+
+		},
+		{
+			"student": {
+				"imya": "Sidorenco",
+				"otmetka": {
+					"disciplina":
+
+					{
+						"Multimedia": "3",
+						"Web-design": "4",
+						"Grafica": "5",
+						"Logika": "4"
+					}
+
+				}
+			}
+
+
+
+
+
+		}
+	]
+}
