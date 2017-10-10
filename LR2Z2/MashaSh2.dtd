@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!ELEMENT ips (ip)* >
+
+<!ELEMENT ip (p_pc)* >
+<!ATTLIST ip addr CDATA #REQUIRED >
+<!ATTLIST ip frequency CDATA #REQUIRED >
+
+<!ELEMENT p_pc (#PCDATA)* >
+<!ATTLIST p_pc platform_pc CDATA #REQUIRED >
+
+<!ELEMENT ip (p_mobile)* >
+
+<!ELEMENT p_mobile (#PCDATA)* >
+<!ATTLIST p_mobile platform_mobile CDATA #REQUIRED >

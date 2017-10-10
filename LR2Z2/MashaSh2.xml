@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ips PUBLIC "MashaSh" "https://kodaktor.ru/j/dtd_844d2">
+<ips>
+
+  <ip addr="077.234.203.101" frequency="12">
+   <p_pc platform_pc="Windows">__</p_pc>
+   <p_pc platform_pc="Macintosh">__</p_pc>
+   <p_pc platform_pc="Linux">__</p_pc>
+   <p_mobile platform_mobile="iPhone">__</p_mobile>
+   <p_mobile platform_mobile="Other">__</p_mobile>
+ </ip>
+
+  <ip addr="005.144.096.251" frequency="11">
+   <p_pc platform_pc="Windows">__</p_pc>
+   <p_pc platform_pc="Macintosh">__</p_pc>
+   <p_pc platform_pc="Linux">__</p_pc>
+   <p_mobile platform_mobile="iPhone">__</p_mobile>
+   <p_mobile platform_mobile="Other">__</p_mobile>
+ </ip>
+
+  <ip addr="081.222.086.058" frequency="6">
+   <p_pc platform_pc="Windows">__</p_pc>
+   <p_pc platform_pc="Macintosh">__</p_pc>
+   <p_pc platform_pc="Linux">__</p_pc>
+   <p_mobile platform_mobile="iPhone">__</p_mobile>
+   <p_mobile platform_mobile="Other">__</p_mobile>
+ </ip>
+
+  <ip addr="005.164.066.173" frequency="4">
+   <p_pc platform_pc="Windows">__</p_pc>
+   <p_pc platform_pc="Macintosh">__</p_pc>
+   <p_pc platform_pc="Linux">__</p_pc>
+   <p_mobile platform_mobile="iPhone">__</p_mobile>
+   <p_mobile platform_mobile="Other">__</p_mobile>
+ </ip>
+
+  <ip addr="091.122.189.004" frequency="4">
+   <p_pc platform_pc="Windows">__</p_pc>
+   <p_pc platform_pc="Macintosh">__</p_pc>
+   <p_pc platform_pc="Linux">__</p_pc>
+   <p_mobile platform_mobile="iPhone">__</p_mobile>
+   <p_mobile platform_mobile="Other">__</p_mobile>
+ </ip> 
+
+  <ip addr="094.019.018.060" frequency="4">
+   <p_pc platform_pc="Windows">__</p_pc>
+   <p_pc platform_pc="Macintosh">__</p_pc>
+   <p_pc platform_pc="Linux">__</p_pc>
+   <p_mobile platform_mobile="iPhone">__</p_mobile>
+   <p_mobile platform_mobile="Other">__</p_mobile>
+ </ip>
+
+</ips>
